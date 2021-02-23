@@ -10,9 +10,7 @@
     },
     "packageRules": [
         {
-            "matchPackagePatterns": [
-                "id90-http-utils, id90-logger"
-            ],
+            "matchPackagePatterns": [ "id90-http-utils, id90-logger" ],
             "enabled": false
         }
     ],
