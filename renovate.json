@@ -17,5 +17,5 @@
     "reviewers": [
         "team:Development"
     ],
-    "schedule": "at 19:00 every 2 weeks after 3 day of March in 2021"
+    "schedule": ["after 11am and before 10pm every weekday", "every weekend"]
 }
