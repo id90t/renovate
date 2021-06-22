@@ -14,8 +14,5 @@
             "enabled": false
         }
     ],
-    "reviewers": [
-        "team:Development"
-    ],
-    "schedule": ["after 11am and before 10pm every weekday", "every weekend"]
+    "schedule": "at 19:00 every 2 weeks after 24 day of June in 2021"
 }
